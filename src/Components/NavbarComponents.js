@@ -1,12 +1,12 @@
 import React from 'react';
 import "./NavbarComponents.css";
 import { Link } from 'react-router-dom';
-import { FaYoutube, FaDribbble, FaTwitter, FaGithub } from "react-icons/fa";
+import { FaYoutube, FaFacebook, FaTwitter, FaGithub } from "react-icons/fa";
 
 
 export const socialIcons = [
   <FaYoutube />,
-  <FaDribbble />,
+  <FaFacebook />,
   <FaGithub />,
   <FaTwitter />
 ]

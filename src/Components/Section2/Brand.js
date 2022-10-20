@@ -13,7 +13,7 @@ const Brand = () => {
     return (
         <div className='brands-container'>
             <div className='brand-heading'>
-                <h2>I am proud to have these amazing brands as my clients</h2>
+                <h2>Looking for a challenging role in a reputable organization to utilize my web development skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.</h2>
                 <img src={dot} alt="" />
             </div>
             <div className='brand-logo-list'>

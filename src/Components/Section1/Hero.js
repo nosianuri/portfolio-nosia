@@ -8,7 +8,7 @@ const Hero = () => {
         <div className='hero-content'>
             <div className='hero-heading-container'>
                 <h1 className='hero-heading'>
-                    My Next Project <span>Done Right</span>
+                    Hi, I'm Nosia <span>From Bangladesh</span>
                     <img className='hero-heading-underline' src={underline} alt="" />
                 </h1>
                 
@@ -24,11 +24,11 @@ const Hero = () => {
                 </div>
                 <div className='hero-cards'>
                     <h2>100+</h2>
-                    <h5>Clients</h5>
+                    <h5>Coding Exercises</h5>
                 </div>
                 <div className='hero-cards'>
-                    <h2>From 20</h2>
-                    <h5>Different Countries</h5>
+                    <h2>Download</h2>
+                    <h5>My Resume</h5>
                 </div>
             </div>
         </div>
@@ -36,4 +36,4 @@ const Hero = () => {
   )
 }
 
-export default Hero
+export default Hero;
