@@ -1,14 +1,14 @@
 import React from 'react';
 import "./NavbarComponents.css";
 import { Link } from 'react-router-dom';
-import { FaYoutube, FaDribble, FaTwitter, FaGithub } from "react-icons/fa";
+import { FaYoutube, FaDribbble, FaTwitter, FaGithub } from "react-icons/fa";
 
 
 export const socialIcons = [
-  // <FaYoutube />,
-  // <FaDribble />,
-  // <FaGithub />,
-  // <FaTwitter />
+  <FaYoutube />,
+  <FaDribbble />,
+  <FaGithub />,
+  <FaTwitter />
 ]
 
 export const Logo = (

@@ -5,6 +5,11 @@ import "./Navbar.css";
 
 function Navbar() {
   const [navMenu, setNavMenu] = useState(false);
+  const closeMenu = () => {
+    setNavMenu(false);
+  };
+
+  window.addEventListener("scroll", closeMenu)
 
   const hamburger = (
     <a href="#" className='hamburger-container' onClick={() => setNavMenu(!navMenu)}>
