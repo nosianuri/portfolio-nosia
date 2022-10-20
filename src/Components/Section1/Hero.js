@@ -26,10 +26,10 @@ const Hero = () => {
                     <h2>100+</h2>
                     <h5>Coding Exercises</h5>
                 </div>
-                <div className='hero-cards'>
+                <a href="../../assests/Nosia Akter3.pdf" className='hero-cards' download>
                     <h2>Download</h2>
-                    <h5>My Resume</h5>
-                </div>
+                    <h5 >My Resume</h5>
+                </a>
             </div>
         </div>
     </div>
