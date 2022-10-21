@@ -23,7 +23,7 @@ const FooterNav = () => {
         <div className='footer-logo-container'>
             {Logo}
         </div>
-        <h6>Copyright @2022 Nosia-Nuri All rights reserved.</h6>
+        <h6>Copyright ©2022 Nosia-Nuri All rights reserved.</h6>
     </div>
   )
 }
