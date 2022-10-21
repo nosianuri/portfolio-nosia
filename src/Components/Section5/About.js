@@ -11,7 +11,7 @@ const About = () => {
                 <div className='about-me-avatar'>
                     <img src={avatar} alt="" />
                     <p>
-                        <strong>@Justnosia:</strong> As a Web developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real world problems. I enjoy working with CSS, ReactJS, JavaScript as well as node.js. I have also knowledge on project management.
+                        <strong>@Justnosia:</strong> As a Web developer, I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real world problems. I enjoy working with CSS, ReactJS, JavaScript as well as node.js. I have also knowledge on project management.
                     </p>
                 </div>
                 <div className='about-me-calender'>
