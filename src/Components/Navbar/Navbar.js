@@ -35,7 +35,7 @@ function Navbar() {
   return (
     <div className='navbar'>
       <div className='nav-icon-container'>
-        {socialIcons.map((icon) => (<a className='nav-icon' href='/'>
+        {socialIcons.map((icon) => (<a className='nav-icon' href='https://github.com/nosianuri'>
             {icon}
           </a>))
         }
