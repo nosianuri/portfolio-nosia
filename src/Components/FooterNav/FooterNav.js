@@ -14,7 +14,7 @@ const FooterNav = () => {
             </div>
             <div className='footer-socials'>
                 {socialIcons.map((icon) => (
-                    <a className='footer-social-icon' href="#">
+                    <a className='footer-social-icon' href="https://github.com/nosianuri">
                         {icon}
                     </a>
                 ))}
@@ -23,7 +23,7 @@ const FooterNav = () => {
         <div className='footer-logo-container'>
             {Logo}
         </div>
-        <h6>Copyright ©2022 Nosia-Nuri All rights reserved.</h6>
+        <h6>Copyright ©2023 Nosia-Nuri All rights reserved.</h6>
     </div>
   )
 }
